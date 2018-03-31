@@ -10,8 +10,6 @@ print("to have translated, and the name you want")
 print("for the translated file.")
 print("")
 
-# 1. What are we returning?
-
 # This method opens a file and converts it to a string
 # @param {String} file_name: the name of the file you want to open
 # @returns String
