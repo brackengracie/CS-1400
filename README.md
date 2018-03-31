@@ -1,13 +1,14 @@
-TUESDAY January 9, 2018
-•	WWW.CIT.DIXIE.EDU (find out about computer science degree)
-•	Code Grinder (10 assignments)
-•	Python (Programing assignments)
-•	Every Friday quizzes
-•	GET HELP: Contact Bob nielson@dixie.edu , Office hours M-F 9-10 , Building help , Tutor
-•	Second Hardest Major…
+# TUESDAY January 9, 2018
+- WWW.CIT.DIXIE.EDU (find out about computer science degree)
+- Code Grinder (10 assignments)
+- Python (Programing assignments)
+- Every Friday quizzes
+- GET HELP: Contact Bob nielson@dixie.edu , Office hours M-F 9-10 , Building help , Tutor
+- Second Hardest Major…
 
-•	CS 1400-02
-•	PRINT
+- CS 1400-02
+-  PRINT
+
 ```
 >>> print("This is a literal string")
 This is a literal string
@@ -21,12 +22,12 @@ I can use double or single quotes
 2+5
 >>> print('25*3+9')
 25*3+9
-•	Word are in “”
-•	Works in order of operation
-•
 ```
 
-THURSDAY January 11, 2018
+- Word are in “”
+- Works in order of operation
+
+# THURSDAY January 11, 2018
 ```
 >>> def expression01():
                return 2+2
@@ -41,27 +42,33 @@ THURSDAY January 11, 2018
 	return
 >>> gracie()
 Hello
+```
+
 •	Define is adding new words into the vocabulary when you want to repeat something over and over again
+
+```
 Def double(num) :
 Return num*2
-
 Def main() :
 Num=12
 Print(“the result is”)
 Print (double (num))
 ```
 
-•	Main():			double():
-•	Num=12			Num=12
+-	Main():			double():
+-	Num=12			Num=12
 
 The result is
 24
-TUESDAY January 16, 2018
+
+# TUESDAY January 16, 2018
 Variables: When creating variables use something that will be descriptive that you will remember later on.
-INT (Integer): 3
-Float: 3.7 If number has decimal it becomes a float.
-STR (string): has “” around them. Is a string of characters.
-BOOL: True or False
+
+- INT (Integer): 3
+- Float: 3.7 If number has decimal it becomes a float.
+- STR (string): has “” around them. Is a string of characters.
+- BOOL: True or False
+
 ```
 >>> a=7
 >>> b=a*3
