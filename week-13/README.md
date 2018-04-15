@@ -148,3 +148,14 @@ while true:
   if name = "end"
     break
 ```
+# Participation
+```
+def slicingit(nums,a,c):
+return nums[a:len(nums):c]
+print(slicingit([5,3,13,11,7,2,6,1], 1,2))
+3,12,7,6
+
+def sliceit(xstr):
+  return xstr[1:6]
+print(sliceit("12345678abcdef"))
+23456
